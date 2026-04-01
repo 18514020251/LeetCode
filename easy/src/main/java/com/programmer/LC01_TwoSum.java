@@ -1,13 +1,13 @@
 package com.programmer;
 
 /**
- * 两数之和
+ * 两数之和(LC01)
  *
  * @author Programmer
  * @version 1.0
  * @date 2026-03-30 16:38
  */
-public class Main {
+public class LC01_TwoSum {
     public static void main(String[] args) {
         twoSum(new int[]{3,3}, 6);
     }
