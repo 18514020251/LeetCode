@@ -2,7 +2,6 @@ package com.programmer;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 /**
  * 有效的括号(LC20)
